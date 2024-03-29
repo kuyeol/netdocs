@@ -34,7 +34,8 @@
   },
   "devDependencies": {
     "@netflix/eslint-config": "^3.0.0",
-    "eslint": "^8.21.0"
+    "eslint": "^8.21.0",
+    "eslint-config-netflix-dea": "^4.0.0"
   },
   "scripts": {
     "test": "ESLINT_USE_FLAT_CONFIG=true eslint --config index.js --debug .",

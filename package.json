@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@jetbrains/ring-ui": "6.0.13"
+    "@jetbrains/ring-ui": "6.0.13",
+    "@jetbrains/ring-ui-built": "^6.0.13"
   }
 }

@@ -16,3 +16,4 @@ jobs:
         env:
           # The secrets should be implicitly passed via “secrets: inherit”.
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+

@@ -33,6 +33,7 @@
     "@eslint/js": "^8.21.0"
   },
   "devDependencies": {
+    "@netflix/eslint-config": "^3.0.0",
     "eslint": "^8.21.0"
   },
   "scripts": {

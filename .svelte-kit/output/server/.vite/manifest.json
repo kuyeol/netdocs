@@ -1,0 +1,262 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js",
+      "_environment.js"
+    ]
+  },
+  "_Button.js": {
+    "file": "chunks/Button.js",
+    "name": "Button",
+    "imports": [
+      "_ssr.js",
+      "_exports.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Button.C02xregh.css"
+    ]
+  },
+  "_ContributorPerson.svelte_svelte_type_style_lang.js": {
+    "file": "_app/immutable/assets/ContributorPerson.Cg7yLpUP.css",
+    "src": "_ContributorPerson.svelte_svelte_type_style_lang.js"
+  },
+  "_FooterHost.js": {
+    "file": "chunks/FooterHost.js",
+    "name": "FooterHost",
+    "imports": [
+      "_ssr.js",
+      "__layout.js",
+      "_Query.js"
+    ],
+    "css": [
+      "_app/immutable/assets/FooterHost.uW1PWC2q.css"
+    ]
+  },
+  "_Head.js": {
+    "file": "chunks/Head.js",
+    "name": "Head",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_Picture.js": {
+    "file": "chunks/Picture.js",
+    "name": "Picture",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_Query.js": {
+    "file": "chunks/Query.js",
+    "name": "Query",
+    "imports": [
+      "_index.js",
+      "__layout.js",
+      "_ssr.js"
+    ]
+  },
+  "__layout.js": {
+    "file": "chunks/_layout.js",
+    "name": "_layout",
+    "imports": [
+      "_ssr.js",
+      "_index.js",
+      "_Button.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.JizXQCuj.css"
+    ]
+  },
+  "_environment.js": {
+    "file": "chunks/environment.js",
+    "name": "environment"
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_ssr.js",
+      "_environment.js"
+    ]
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js",
+    "name": "ssr"
+  },
+  "manager.avif": {
+    "file": "_app/immutable/assets/manager.Bp0ieUo7.avif",
+    "src": "manager.avif"
+  },
+  "manager.png": {
+    "file": "_app/immutable/assets/manager._DvZGXXG.png",
+    "src": "manager.png"
+  },
+  "manager.webp": {
+    "file": "_app/immutable/assets/manager.B8RtvQNA.webp",
+    "src": "manager.webp"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_internal.js",
+      "_exports.js",
+      "_environment.js"
+    ]
+  },
+  "src/routes/+error.svelte": {
+    "file": "entries/pages/_error.svelte.js",
+    "name": "entries/pages/_error.svelte",
+    "src": "src/routes/+error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_Head.js",
+      "_Button.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_error.BZKmEC1D.css"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_index.js",
+      "__layout.js",
+      "_Button.js"
+    ]
+  },
+  "src/routes/+layout.ts": {
+    "file": "entries/pages/_layout.ts.js",
+    "name": "entries/pages/_layout.ts",
+    "src": "src/routes/+layout.ts",
+    "isEntry": true
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_Picture.js",
+      "_Button.js",
+      "__layout.js",
+      "_Query.js",
+      "_Head.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.DVywnltg.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/manager.CQWjAKnQ.avif",
+      "_app/immutable/assets/manager.BNT2ogxf.avif",
+      "_app/immutable/assets/manager.Bp0ieUo7.avif",
+      "_app/immutable/assets/manager.D0ikfiDA.webp",
+      "_app/immutable/assets/manager.Dp2yoWv1.webp",
+      "_app/immutable/assets/manager.3pcZTM4Z.webp",
+      "_app/immutable/assets/manager.Dex2kVpp.png",
+      "_app/immutable/assets/manager.CrqhYuk6.png",
+      "_app/immutable/assets/manager.LGUSE7ui.png"
+    ]
+  },
+  "src/routes/contributors/+page.svelte": {
+    "file": "entries/pages/contributors/_page.svelte.js",
+    "name": "entries/pages/contributors/_page.svelte",
+    "src": "src/routes/contributors/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_FooterHost.js",
+      "_Head.js",
+      "_Query.js",
+      "__layout.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.B5uYhyzG.css",
+      "_app/immutable/assets/ContributorPerson.Cg7yLpUP.css"
+    ]
+  },
+  "src/routes/donate/+page.svelte": {
+    "file": "entries/pages/donate/_page.svelte.js",
+    "name": "entries/pages/donate/_page.svelte",
+    "src": "src/routes/donate/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "__layout.js",
+      "_Query.js",
+      "_Head.js",
+      "_FooterHost.js",
+      "_Button.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.dSd2fNEV.css"
+    ]
+  },
+  "src/routes/download/+page.svelte": {
+    "file": "entries/pages/download/_page.svelte.js",
+    "name": "entries/pages/download/_page.svelte",
+    "src": "src/routes/download/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "__layout.js",
+      "_Query.js",
+      "_Head.js",
+      "_Button.js",
+      "_FooterHost.js",
+      "_Picture.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.B2EKEWR3.css",
+      "_app/immutable/assets/ContributorPerson.Cg7yLpUP.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/manager.mcb2h-hC.avif",
+      "_app/immutable/assets/manager.B8RtvQNA.webp",
+      "_app/immutable/assets/manager._DvZGXXG.png"
+    ]
+  },
+  "src/routes/patches/+page.svelte": {
+    "file": "entries/pages/patches/_page.svelte.js",
+    "name": "entries/pages/patches/_page.svelte",
+    "src": "src/routes/patches/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_environment.js",
+      "_index.js",
+      "_Button.js",
+      "_Query.js",
+      "__layout.js",
+      "_Head.js",
+      "_FooterHost.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.BZPPkx0N.css"
+    ]
+  }
+}

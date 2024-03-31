@@ -1,0 +1,18 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/contributors": [
+		"src/routes/+layout.ts"
+	],
+	"/donate": [
+		"src/routes/+layout.ts"
+	],
+	"/download": [
+		"src/routes/+layout.ts"
+	],
+	"/patches": [
+		"src/routes/+layout.ts"
+	]
+}

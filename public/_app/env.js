@@ -1,0 +1,1 @@
+export const env={"RV_API_URL":"https://api.revanced.app","RVM_PATH":"/usr/local/rvm"}
